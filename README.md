@@ -7,12 +7,7 @@
 [![License](https://img.shields.io/cocoapods/l/Macaw.svg?style=flat)](http://cocoapods.org/pods/Macaw)
 [![Platform](https://img.shields.io/cocoapods/p/Macaw.svg?style=flat)](http://cocoapods.org/pods/Macaw)
 
-
-
-
-
-
-![](ScreenADN.png)
+![](MenuH.gif)
 ## Installation
 
 Use import SideMenuSwift
