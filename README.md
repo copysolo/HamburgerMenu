@@ -10,6 +10,8 @@
 ![](MenuH.gif)
 ## Installation
 
+CocoaPods
+Pod init
 Use import SideMenuSwift
 
 ```
